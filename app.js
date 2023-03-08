@@ -70,15 +70,3 @@ app.post("/failure.html", function(req,res){
 app.listen( port, function(){
     console.log("app is running")
 })
-
-// API KEY
-// 7f088158f17ae4053bd0019c794b5145-us14
-
-// UNIQUE ID
-// 5c9ed8587a
-
-// fined grained token
-// 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
-
-// personal access token
-// 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
