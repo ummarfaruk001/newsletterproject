@@ -38,7 +38,7 @@ app.post("/", function(req,res){
 
    const options = {
     method:"POST",
-    auth:"ummar:7f088158f17ae4053bd0019c794b5145-us14"
+    auth:"ummar:6025f24aedc3c4d36ba7ca9fb79ab6ca-us14-us14"
    }
    
    
